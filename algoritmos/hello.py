@@ -1,0 +1,1 @@
+print("Holla caralho, esse progama é feito em python. Vou ser a porra de um programado foda de mais ")

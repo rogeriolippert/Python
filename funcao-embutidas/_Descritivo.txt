@@ -1,0 +1,7 @@
+abs(x)
+    Retornao valor de um número. O argumento pode ser um inteiro, um número de ponto flutante 
+    ou um objeto implementado __abs__( ). Se o argumento é um número complexo, sua magnitude é   
+    retonada.
+aiter(async_interable)
+    Retorna um **iterador assíncrono** para um **interável assíncrono.** Equivalente a chamar x.__aiter__( ).
+    Nota: Ao contrário de inter( ), aiter( ) não tem uma variante de 2 argumentos.
